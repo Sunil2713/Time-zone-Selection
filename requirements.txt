@@ -1,0 +1,13 @@
+# SSL-Enabled Time Server Requirements
+# This project uses only Python standard library modules
+# No external dependencies required
+
+# Python version requirement
+# Python >= 3.6
+
+# Standard library modules used:
+# - socket
+# - ssl
+# - threading
+# - datetime
+# - timedelta 
